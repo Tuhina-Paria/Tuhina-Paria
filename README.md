@@ -71,7 +71,7 @@ An AI-powered platform that converts text prompts into images.
 - Cloudinary image storage  
 
 **Tech Stack:** React, Node.js, Express, MongoDB, AI APIs, Cloudinary  
- **Live Demo:**  vision-craft-ai-gamma.vercel.app
+**Live Demo:** https://vision-craft-ai-gamma.vercel.app
 ---
 
 ## 📄 Resume
