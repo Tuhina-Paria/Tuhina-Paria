@@ -1,86 +1,164 @@
-# Hi, I'm Tuhina 👋  
+Hi, I'm Tuhina 👋
+Frontend Engineer | React Specialist | UI Architecture & Product-Focused Development
 
-🚀 Full-Stack Developer | React | Node.js | MongoDB | Stripe  
+I build fast, scalable, and production-ready frontend applications with a strong focus on user experience, performance, and clean component architecture.
 
-I build **production-ready full-stack applications** with clean UI, scalable backend, and real-world features like authentication, payments, and admin dashboards.
+I don’t just build screens — I build structured frontend systems that integrate seamlessly with real backend workflows like authentication, payments, admin dashboards, and API-driven products.
 
----
+🚀 What I Do
 
-## 🧠 About Me
-- 🎓 Bachelor of Computer Applications (BCA), 2022–2025  
-- 💻 Passionate about building end-to-end products, not just demos  
-- 🛠 Strong focus on real-world use cases, clean code, and scalability  
-- 🌱 Actively looking for Full-Stack / Backend / Frontend roles at startups  
+Design scalable React architectures
 
----
+Build responsive, modern UI with Tailwind CSS
 
-## 🔧 Tech Stack
+Integrate secure authentication (JWT-based systems)
 
-**Frontend**
-- React.js
-- JavaScript (ES6+)
-- HTML, CSS
-- Tailwind CSS
+Connect frontend to real production APIs
 
-**Backend**
-- Node.js
-- Express.js
-- REST APIs
-- Authentication (JWT)
+Handle payment flows (Stripe Checkout + status handling)
 
-**Database & Tools**
-- MongoDB
-- Mongoose
-- Git & GitHub
-- Cloudinary
+Optimize performance and component reusability
 
-**Payments**
-- Stripe
-- Webhooks
-- Payment success & failure handling
+Build real-world startup-ready products
 
----
+🧠 Engineering Mindset
 
-## 🚀 Featured Projects
+Component-driven architecture
 
-### 🛒 Greenly – Grocery E-Commerce Platform
-A full-stack grocery e-commerce application built with modern web technologies.
+Reusable UI systems
 
-**Key Features**
-- User authentication & protected routes  
-- Admin panel (add/edit products)  
-- Stripe payment integration  
-- Payment success & failure handling  
-- Order history  
-- Stripe webhooks for secure payment verification  
+Clean folder structure & naming conventions
 
-**Tech Stack:** React, Node.js, Express, MongoDB, Stripe  
-🔗 **Live Demo:** https://greenly-fronted.vercel.app
+Proper state management
 
----
+API abstraction layers
 
-### 🎨 VisionCraft – AI Text-to-Image Platform
-An AI-powered platform that converts text prompts into images.
+Edge-case handling (loading states, error states, empty states)
 
-**Key Features**
-- Secure authentication & protected routes  
-- Credit-based image generation system  
-- Daily credit reset  
-- Public shareable image links  
-- Auth-gated image downloads  
-- Cloudinary image storage  
+Environment-based configuration for deployments
 
-**Tech Stack:** React, Node.js, Express, MongoDB, AI APIs, Cloudinary  
-**Live Demo:** https://vision-craft-ai-gamma.vercel.app
----
+🛠 Tech Stack
+Frontend
 
-## 📄 Resume
-👉 [Download My Resume](./Tuhina_Paria_Resume.pdf)
+React.js
 
----
+JavaScript (ES6+)
 
-## 📫 Let’s Connect
-- GitHub: https://github.com/yourusername  
-- LinkedIn: (add when ready)  
+Tailwind CSS
 
-⭐ I love working on impactful products and learning fast in startup environments.
+Responsive Design
+
+API Integration (REST)
+
+JWT Authentication Handling
+
+Stripe Frontend Integration
+
+Tools
+
+Git & GitHub
+
+Vercel Deployment
+
+Postman
+
+Cloudinary (media handling)
+
+🚀 Featured Production Projects
+🛒 Greenly – E-Commerce Frontend System
+
+A production-style eCommerce platform frontend built with scalable React architecture.
+
+Key Frontend Highlights
+
+Secure login & protected routes
+
+Admin dashboard UI with product control panel
+
+Dynamic product rendering from API
+
+Stripe checkout flow integration
+
+Payment success & failure handling pages
+
+Order history dashboard
+
+Fully responsive layout
+
+Engineering Focus
+
+Component-based UI system
+
+Reusable product card architecture
+
+API abstraction layer
+
+Proper loading & error state handling
+
+Clean folder structure
+
+🔗 Live Demo: https://greenly-fronted.vercel.app
+
+🎨 VisionCraft – AI Text-to-Image Frontend Platform
+
+A modern AI-based frontend platform that converts prompts into generated images.
+
+Key Frontend Highlights
+
+Auth-gated UI
+
+Credit-based usage display system
+
+Real-time image rendering
+
+Public shareable image links
+
+Download protection for non-authenticated users
+
+Responsive dashboard interface
+
+Engineering Focus
+
+Protected route logic
+
+State-driven UI updates
+
+Credit tracking UI logic
+
+Modular component design
+
+Clean API integration structure
+
+🔗 Live Demo: https://vision-craft-ai-gamma.vercel.app
+
+📂 Code Philosophy
+
+I write code that is:
+
+Readable
+
+Maintainable
+
+Structured for scaling
+
+Easy for teams to collaborate on
+
+I focus on writing frontend code that backend developers love working with.
+
+🎯 Currently Looking For
+
+Frontend Engineer roles at startups where I can:
+
+Contribute to real production features
+
+Work closely with backend teams
+
+Improve UI/UX systems
+
+Ship fast and iterate quickly
+
+📫 Connect With Me
+
+GitHub: https://github.com/Tuhina-Paria
+
+LinkedIn:www.linkedin.com/in/tuhina-paria
